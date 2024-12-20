@@ -15,7 +15,7 @@ require (
 	github.com/cli/go-internal v0.0.0-20241025142207-6c48bcd5ce24
 	github.com/cli/oauth v1.1.1
 	github.com/cli/safeexec v1.0.1
-	github.com/cpuguy83/go-md2man/v2 v2.0.5
+	github.com/cpuguy83/go-md2man/v2 v2.0.6
 	github.com/creack/pty v1.1.24
 	github.com/digitorus/timestamp v0.0.0-20231217203849-220c5c2851b7
 	github.com/distribution/reference v0.5.0
