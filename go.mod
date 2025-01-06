@@ -19,7 +19,7 @@ require (
 	github.com/creack/pty v1.1.24
 	github.com/digitorus/timestamp v0.0.0-20231217203849-220c5c2851b7
 	github.com/distribution/reference v0.5.0
-	github.com/gabriel-vasile/mimetype v1.4.7
+	github.com/gabriel-vasile/mimetype v1.4.8
 	github.com/gdamore/tcell/v2 v2.5.4
 	github.com/google/go-cmp v0.6.0
 	github.com/google/go-containerregistry v0.20.2
@@ -159,7 +159,7 @@ require (
 	go.uber.org/zap v1.27.0 // indirect
 	golang.org/x/exp v0.0.0-20240112132812-db7319d0e0e3 // indirect
 	golang.org/x/mod v0.21.0 // indirect
-	golang.org/x/net v0.31.0 // indirect
+	golang.org/x/net v0.33.0 // indirect
 	golang.org/x/sys v0.28.0 // indirect
 	golang.org/x/tools v0.26.0 // indirect
 	google.golang.org/genproto/googleapis/api v0.0.0-20240520151616-dc85e6b867a5 // indirect
